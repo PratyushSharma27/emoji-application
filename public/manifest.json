@@ -1,0 +1,28 @@
+{
+  "short_name": "Emoji",
+  "name": "amirrahemi emoji platform",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+
+  "related_applications": [
+    {
+      "platform": "github",
+      "url": "https://amirrahemi-tictactoe.vercel.app/"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "description": "a Tic Tac Toe with TypeScrip.",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
